@@ -15,8 +15,3 @@ host, email admin and password admin.
 6.Enter the admin control panel using the menu in the sidebar.
 
 7.Login
-
-
-### Powered By
-[@jodacame](http://twitter.com/@jodacame)
-
